@@ -9,7 +9,7 @@ A sketch based tree modeling software, implemented with C++ and OpenGL.
 **Demo Video**: https://www.bilibili.com/video/BV1cW411c7Dj. Please refer to it for the detailed instruction on its usage.
 - 🔴 **Download Link of My Software**: Please download the entire [Folder](https://github.com/RyuZhihao123/TreeDesigner/tree/master/SketchTree_exe_Zhihao).
 
-- 🔵 **Backup Download Link for Chinese Users**: (Baidu Net Disk) https://pan.baidu.com/s/1bO5sWsExxpxfXMi0hTVCYA  (密码:12v8)
+- 🔵 **Backup Download Link for Chinese Users**: [Baidu Net Disk](https://pan.baidu.com/s/1bO5sWsExxpxfXMi0hTVCYA)  (密码:12v8)
 
 - 🟢 **Usage:** After downloading the full directory, double click the ``SketchBasedTreeModeling.exe`` to run the program. The program is complied on **Win10+**. Mac is currently NOT supported. No further configuration is required.
 
