@@ -35,6 +35,3 @@ You can freely use my program but please at least mention my name ^_^.
 <img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picC.png" width = "500" alt="ack" align=center />
 </div>
 
-
-**[Reference]** Interactive Design of Botanical Trees using Freehand Sketches and Example-based Editing.
-https://www-ui.is.s.u-tokyo.ac.jp/~takeo/papers/okabe-eg2005-tree.pdf
