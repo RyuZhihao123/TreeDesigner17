@@ -1,5 +1,5 @@
 # Sketch-based-Tree-Modeling
-A sketch based tree modeling software, implemented with C++ and OpenGL.
+A sketch based tree modeling software, implemented with C++ and OpenGL. I made it when I was a third-year undergraduate student (2017).
 
 
 ### 1. SOFTWARE
