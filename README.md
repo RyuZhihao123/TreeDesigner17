@@ -8,12 +8,15 @@ A sketch based tree modeling software, implemented with C++ and OpenGL.
 
 **Author**: [Liu Zhihao](https://ryuzhihao123.github.io)
 
-**Demo Video**: [Demo Video](https://drive.google.com/file/d/1-ufb3i6t3hANZz7HG6Zr3uAWSW6E4Xa7/view?usp=sharing). **Please refer to it for the detailed instruction on its usage.**
-- 🔴 **Download Link of My Software**: Please download the entire [Folder](https://github.com/RyuZhihao123/TreeDesigner/tree/master/SketchTree_exe_Zhihao).
+- 📺 **Demo Video**: Please first watch this **[[Demo Video]](https://drive.google.com/file/d/19eglxxpocGVWfH3Hv4RjLiiBDsmZrqV-/view?usp=sharing)** for the instructions on the usage of this software.
+- 🔴 **Download Link of My Software**: Please download the entire **[[Folder]](https://github.com/RyuZhihao123/TreeDesigner/tree/master/SketchTree_exe_Zhihao)**.
 
-- 🔵 **Backup Download Link for Chinese Users**: [Baidu Net Disk](https://pan.baidu.com/s/1bO5sWsExxpxfXMi0hTVCYA)  (密码:12v8)
+- 🟢 **Usage:** After downloading the full directory, double click the **``SketchBasedTreeModeling.exe``** to start our program. The program is onl complied on **Win10+**. Mac is currently NOT supported. **No further configuration is required.** Below is the four steps you need to perform to create 3D tree models:
 
-- 🟢 **Usage:** After downloading the full directory, double click the ``SketchBasedTreeModeling.exe`` to run the program. The program is complied on **Win10+**. Mac is currently NOT supported. No further configuration is required.
+    - Step1: **Left Mouse Button** to draw the tree sketches.
+    - Step2: **CTRL+LeftButton** to choose the Root position.
+    - Step3: **ALT+LeftButton** to select the Foliage area.
+    - Step4: Sequentially press the **four red buttons (1~4)** at the bottom-right corner to generate the final 3D tree model.
 
 - 🟣 **Customized Textures:** If you want to use your own external Leaf/Branch Textures, you could simply put the figures (PNG format) under the following paths, respectively:
   - PATH TO LEAVES: ``./SketchTree_exe_Zhihao/leaves/``
@@ -26,12 +29,10 @@ You can freely use my program but please at least mention my name ^_^.
 ### 2. USER INTERFACE AND EXAMPLE RESULTS.
 
 <div align=center>
-<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picA.png" width = "500" alt="ack" align=center />
+<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/pic0.png" width = "500" alt="ack" align=center />
 </div>
 <div align=center>
 <img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picB.png" width = "500" alt="ack" align=center />
 </div>
-<div align=center>
-<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picC.png" width = "500" alt="ack" align=center />
-</div>
+
 
