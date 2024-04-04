@@ -1,4 +1,4 @@
-# Tree-Designer-2017
+# Tree-Designer
 A sketch based tree modeling software, implemented with C++ and OpenGL.
 
 **I made it when I was a third-year undergraduate student (2017).** If you are using Win10+, you can directly use my software without any configuration.
