@@ -11,7 +11,7 @@ A sketch based tree modeling software, implemented with C++ and OpenGL.
 - 📺 **Demo Video**: Please first watch this **[[Demo Video]](https://drive.google.com/file/d/1DacX4doX6oevivpZYOWCYfSVtomccKgG/view?usp=sharing)** for the instructions on the usage of this software.
 - 🔴 **Download Link of My Software**: Please download the entire **[[Folder]](https://github.com/RyuZhihao123/TreeDesigner/tree/master/SketchTree_exe_Zhihao)**.
 
-- 🟢 **Usage:** After downloading the full directory, double click the **``SketchBasedTreeModeling.exe``** to start our program. The program is onl complied on **Win10+**. Mac is currently NOT supported. **No further configuration is required.** Below is the four steps you need to perform to create 3D tree models:
+- 🟢 **Usage:** After downloading the full directory, double click the **``SketchBasedTreeModeling.exe``** to start our program. The program is only complied on **Win10+**. Mac is currently NOT supported. **No further configuration is required.** Below is the four steps you need to perform to create 3D tree models:
 
     - Step1: **Left Mouse Button** to draw the tree sketches.
     - Step2: **CTRL+LeftButton** to choose the Root position.
