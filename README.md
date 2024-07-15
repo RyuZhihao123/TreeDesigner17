@@ -6,8 +6,6 @@ A sketch based tree modeling software, implemented with C++ and OpenGL.
 
 ### 1. SOFTWARE
 
-**Author**: [Liu Zhihao](https://ryuzhihao123.github.io)
-
 - 📺 **Demo Video**: Please first watch this **[[Demo Video]](https://drive.google.com/file/d/1DacX4doX6oevivpZYOWCYfSVtomccKgG/view?usp=sharing)** for the instructions on the usage of this software.
 - 🔴 **Download Link of My Software**: Please download the entire **[[Folder]](https://github.com/RyuZhihao123/TreeDesigner/tree/master/SketchTree_exe_Zhihao)**.
 
