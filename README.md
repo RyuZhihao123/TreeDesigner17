@@ -26,11 +26,13 @@ You can freely use my program but please at least mention my name ^_^.
 
 ### 2. USER INTERFACE AND EXAMPLE RESULTS.
 
-<div align=center>
-<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/pic0.png" width = "700" alt="ack" align=center />
-</div>
+
 <div align=center>
 <img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picB.png" width = "500" alt="ack" align=center />
 </div>
 
+
+<div align=center>
+<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/pic0.png" width = "700" alt="ack" align=center />
+</div>
 
