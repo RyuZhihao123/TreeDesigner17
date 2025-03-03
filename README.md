@@ -2,6 +2,8 @@
 
 **[2024.05]** This repository is non-AI-based. Recently, we also have a paper published in ACM CHI which leveraged AI to create more natural branching structures. Please check [this repository](https://github.com/RyuZhihao123/CHITreeProject). But if you want to design trees directly on your Windows PC, this current repository would be a better fit.
 
+**[2017.10]**
+
 A sketch based tree modeling software, implemented with C++ and OpenGL.
 
 **I made it when I was a third-year undergraduate student (2017).** If you are using Win10+, you can directly use my software without any configuration.
