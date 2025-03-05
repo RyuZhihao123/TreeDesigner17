@@ -1,6 +1,6 @@
 # Tree-Designer
 
-**[2024.05]** This repository is non-AI-based. Recently, we also have a paper published in ACM CHI which leveraged AI to create more natural branching structures. Please check [this repository](https://github.com/RyuZhihao123/CHITreeProject). But if you want to design trees directly on your Windows PC, this current repository would be a better fit.
+**[2024.05]** Recently, we also have a paper published in ACM CHI which leveraged AI to create more natural branching structures. Please check [this repository](https://github.com/RyuZhihao123/CHITreeProject). But if you want to design 3D trees directly on your Windows PC, this current repository would be a better fit (since it's not AI-based and easy to configure on PC).
 
 **[2017.10]** This is a sketch based tree modeling software, implemented with C++ and OpenGL. We released the binary program.
 
