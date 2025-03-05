@@ -36,6 +36,6 @@ You can freely use my program but please at least mention my name ^_^.
 
 
 <div align=center>
-<img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/pic0.png" width = "700" alt="ack" align=center />
+<img src="https://github.com/RyuZhihao123/TreeDesigner17/blob/master/picA.png" width = "700" alt="ack" align=center />
 </div>
 
