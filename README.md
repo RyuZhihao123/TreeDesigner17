@@ -6,6 +6,10 @@
 
 **I made it when I was a third-year undergraduate student (2017).** If you are using Win10+, you can directly use my software without any configuration.
 
+<div align=center>
+<img src="https://github.com/RyuZhihao123/TreeDesigner17/blob/master/picA.png" width = "700" alt="ack" align=center />
+</div>
+
 
 ### 1. SOFTWARE
 
@@ -34,8 +38,4 @@ You can freely use my program but please at least mention my name ^_^.
 <img src="https://github.com/RyuZhihao123/Sketch-based-Tree-Modeling/blob/master/picB.png" width = "500" alt="ack" align=center />
 </div>
 
-
-<div align=center>
-<img src="https://github.com/RyuZhihao123/TreeDesigner17/blob/master/picA.png" width = "700" alt="ack" align=center />
-</div>
 
